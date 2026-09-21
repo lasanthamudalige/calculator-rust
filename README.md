@@ -1,1 +1,1 @@
-# calculator-rust
+# Calculator-Rust
