@@ -1,1 +1,20 @@
 # Calculator-Rust
+
+## Setup
+
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer.\
+From your command line run:
+
+* Clone this repository
+```bash
+git clone https://github.com/lasanthamudalige/tech-gadget-shop.git
+```
+
+* Install rust using this [link.](https://rust-lang.org/tools/install/)
+
+## Usage
+
+To run this project use:
+```bash
+cargo run
+```
