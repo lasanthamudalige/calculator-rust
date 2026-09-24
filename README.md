@@ -7,7 +7,7 @@ From your command line run:
 
 * Clone this repository
 ```bash
-git clone https://github.com/lasanthamudalige/tech-gadget-shop.git
+git clone https://github.com/lasanthamudalige/calculator-rust.git
 ```
 
 * Install rust using this [link.](https://github.com/lasanthamudalige/calculator-rust.git)
