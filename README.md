@@ -11,7 +11,7 @@ From your command line run:
 git clone https://github.com/lasanthamudalige/calculator-rust.git
 ```
 
-* Install rust using this [link.](https://github.com/lasanthamudalige/calculator-rust.git)
+* Install rust using this [link.](https://rust-lang.org/tools/install/)
 
 ## Usage
 
