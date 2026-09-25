@@ -6,6 +6,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 From your command line run:
 
 * Clone this repository
+
 ```bash
 git clone https://github.com/lasanthamudalige/calculator-rust.git
 ```
@@ -15,6 +16,7 @@ git clone https://github.com/lasanthamudalige/calculator-rust.git
 ## Usage
 
 To run this project use:
+
 ```bash
 cargo run
 ```

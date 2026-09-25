@@ -18,7 +18,7 @@ fn main() {
         let result;
 
         if operation == 0 {
-            running = false;
+            running = false; // stop the program by turning running varible to false
         } else if operation == 1 {
             let (num1, num2) = get_numbers();
             result = add(num1, num2);
